@@ -1,0 +1,13 @@
+Retailrocket recommender system dataset
+Provider: Retailrocket / Roman Zykov
+Source: https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset
+File endpoint: https://www.kaggle.com/api/v1/datasets/download/retailrocket/ecommerce-dataset/events.csv
+Downloaded: 2026-11-04 Asia/Seoul
+License listed by Kaggle: CC BY-NC-SA 4.0
+License terms: https://creativecommons.org/licenses/by-nc-sa/4.0/
+The events.csv file is the original dataset file and has not been modified.
+Category reference files are stored alongside events.csv; see CATEGORY_SOURCE.txt for their provenance and preparation notes.
+Original file: 2,756,101 event rows; 5 columns.
+This data is provided for non-commercial educational use with attribution.
+Redistribution and adaptations must follow the source license.
+

@@ -1,0 +1,6 @@
+Retailrocket recommender system dataset · Retailrocket / Roman Zykov
+https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset
+CC BY-NC-SA 4.0 · https://creativecommons.org/licenses/by-nc-sa/4.0/
+item_category_history.csv: extracted categoryid changes from both item_properties files and added root_categoryid by following category_tree.csv.
+effective_timestamp: Unix milliseconds. Match only records at or before the event.
+category_tree.csv: original category hierarchy fields. Category names are unavailable.
